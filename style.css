@@ -2,6 +2,10 @@ body {
     background-color: black;
 }
 
-.main h1{
+.header h1 {
     color: lime;
+}
+
+.main h2 {
+    color: coral;
 }
